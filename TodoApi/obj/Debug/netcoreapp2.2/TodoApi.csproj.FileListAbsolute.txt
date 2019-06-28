@@ -1,0 +1,14 @@
+/Users/batman/Projets/dotnet-tuto-api/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.deps.json
+/Users/batman/Projets/dotnet-tuto-api/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.json
+/Users/batman/Projets/dotnet-tuto-api/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.dev.json
+/Users/batman/Projets/dotnet-tuto-api/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.dll
+/Users/batman/Projets/dotnet-tuto-api/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.pdb
+/Users/batman/Projets/dotnet-tuto-api/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csprojAssemblyReference.cache
+/Users/batman/Projets/dotnet-tuto-api/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csproj.CoreCompileInputs.cache
+/Users/batman/Projets/dotnet-tuto-api/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cache
+/Users/batman/Projets/dotnet-tuto-api/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cs
+/Users/batman/Projets/dotnet-tuto-api/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfoInputs.cache
+/Users/batman/Projets/dotnet-tuto-api/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfo.cs
+/Users/batman/Projets/dotnet-tuto-api/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorTargetAssemblyInfo.cache
+/Users/batman/Projets/dotnet-tuto-api/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.dll
+/Users/batman/Projets/dotnet-tuto-api/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.pdb
